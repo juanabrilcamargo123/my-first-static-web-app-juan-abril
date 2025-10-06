@@ -28,17 +28,17 @@ function App() {
         <h2>CATÁLOGO DESTACADO</h2>
         <div className="grid">
           <div className="card">
-            <img src="https://i.ibb.co/r0g2WmV/ropa1.jpg" alt="Camisa" />
+            <img src="https://undergoldapparel.com/cdn/shop/files/7_b5eba40a-e3fe-48e7-a01c-0ce0761a5664.jpg?v=1755708534&width=600" alt="Camisa" />
             <h3>Camisa Urbana</h3>
             <p>$89.900</p>
           </div>
           <div className="card">
-            <img src="https://i.ibb.co/j5kWbXk/ropa2.jpg" alt="Chaqueta" />
+            <img src="https://undergoldapparel.com/cdn/shop/files/7_a52722ed-f084-4898-a8c6-9aec7461b78e.jpg?v=1755707366&width=600" alt="Chaqueta" />
             <h3>Chaqueta Street</h3>
             <p>$149.900</p>
           </div>
           <div className="card">
-            <img src="https://i.ibb.co/BqzZT5p/ropa3.jpg" alt="Pantalón" />
+            <img src="https://undergoldapparel.com/cdn/shop/files/7_590817cd-1e50-4057-bf5d-2316c05a1769.jpg?v=1755708779&width=600" alt="Pantalón" />
             <h3>Pantalón Slim</h3>
             <p>$119.900</p>
           </div>
@@ -59,7 +59,7 @@ function App() {
       <footer id="contacto" className="footer">
         <h3>CONTÁCTANOS</h3>
         <p>📍 Tunja, Colombia</p>
-        <p>📧 contacto@urbanstyle.co</p>
+        <p>📧 juanabril@gmail.com</p>
         <p>© 2025 UrbanStyle. Todos los derechos reservados.</p>
       </footer>
     </div>
